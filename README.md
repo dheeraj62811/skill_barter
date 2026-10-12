@@ -23,7 +23,7 @@ Students possess different academic strengths and technical skills, but finding 
 
 Traditional learning platforms often focus on courses provided by institutions or paid instructors. They do not always offer a simple way for students to exchange their knowledge directly with their peers.
 
-Students need a platform where they can discover mentors, share their expertise, find learning opportunities, and identify skills that are in demand on campus.
+Students need a platform where they can discover mentors, share their expertise, find learning opportunities, and identify skills that are in demand on  campus.
 
 ## Solution
 
